@@ -1,0 +1,1 @@
+print("кипит" if int(input()) >= 100 else "не кипит")
